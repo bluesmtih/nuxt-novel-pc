@@ -7,7 +7,10 @@
     "preview": "nuxt preview"
   },
   "devDependencies": {
+    "@nuxt/kit": "npm:@nuxt/kit-edge@latest",
+    "autoprefixer": "^10.4.7",
     "nuxt": "3.0.0-rc.3",
-    "@nuxt/kit": "npm:@nuxt/kit-edge@latest"
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.0.24"
   }
 }
